@@ -2,10 +2,9 @@
   "users": [
     {
       "id": 1,
-      "username": "bhargav",
-      "email": "bhargav@gmail.com",
-      "password": "bhargav"
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "john"
     }
-  ],
-  "tasks": []
+  ]
 }
